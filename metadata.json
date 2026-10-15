@@ -1,0 +1,6 @@
+{
+  "name": "EscSimulados",
+  "description": "Plataforma completa de simulados online para ENEM, Vestibulares, Concursos Públicos e Ensino Fundamental e Médio com resolução de questões e gabarito comentado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
